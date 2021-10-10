@@ -1,0 +1,1 @@
+{"playerName":"Player_Normal","weaponName":"ShortSword","playerPosition":{"x":11.0,"y":0.0},"bgmVolume":0.129025399684906,"sfxVolume":0.10767259448766709}
